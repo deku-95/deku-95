@@ -1,4 +1,4 @@
-## 👋 Hello there, I'm Alejandro. FullStack JS developer
+
 ![image](https://user-images.githubusercontent.com/12500207/155586678-8159d42c-8b7b-47e7-9039-8e51067d2d68.png)
 
 
