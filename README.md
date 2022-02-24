@@ -6,7 +6,6 @@
 
 <div>
 <ul>
-<li>👋 Hi, I’m @deku-95</li>
 <li>👀 I’m interested in IT, videogames, movies, cooking etc... </li>
 <li>🌱 I’m currently learning Javascript and Python.</li>
 <li> 💞️ I’m looking to collaborate on Open Source projects.</li>
