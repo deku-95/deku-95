@@ -7,8 +7,8 @@
 <div>
 <ul>
 <li>👀 I’m interested in IT, videogames, movies, cooking etc... </li>
-<li>🌱 I’m currently learning Javascript and Python.</li>
-<li> 💞️ I’m looking to collaborate on Open Source projects.</li>
+<li>🌱 Currently learning Javascript and Python.</li>
+<li> 💞️ Looking to collaborate on Open Source projects</li>
  <ul>
    <br/>
 
